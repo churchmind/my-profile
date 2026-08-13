@@ -1,4 +1,4 @@
-# Alfred Ubandoma - Static Portfolio Website
+# Churchmind - Static Portfolio Website
 
 A professional, responsive personal portfolio website built with pure HTML, CSS, and JavaScript. No build process needed - just open and use!
 
